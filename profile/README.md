@@ -28,3 +28,7 @@ Welcome to the Nexus homepage. Nexus is primarily developed and maintained by th
 
 ### Motion Generation Models
 - [ScaMo](https://github.com/Intern-Nexus/ScaMo): A scalable motion generation framework.
+
+## 🧱 Community Contributions
+- [gs-lrm-unofficial](https://github.com/Intern-Nexus/gs-lrm-unofficial): An unofficial implementation for GS-LRM: Large Reconstruction Model for 3D Gaussian Splatting.
+- [open-lvsm](https://github.com/Intern-Nexus/open-lvsm): An unofficial implementation of LVSM: A large view synthesis model with minimal 3D inductive bias.
