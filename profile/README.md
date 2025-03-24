@@ -6,8 +6,6 @@
 
 </div>
 
-![GitHub User's stars](https://img.shields.io/github/stars/Intern-Nexus)
-
 Welcome to the Nexus homepage. Nexus is primarily developed and maintained by the Shanghai AI Laboratory. We also welcome contributions to our project in various forms.
 
 
